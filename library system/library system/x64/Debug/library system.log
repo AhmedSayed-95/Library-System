@@ -1,0 +1,3 @@
+﻿  library system.cpp
+G:\Projects\library\library system\library system\library system.cpp(145,16): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  library system.vcxproj -> G:\Projects\library\library system\library system\x64\Debug\library system.exe
